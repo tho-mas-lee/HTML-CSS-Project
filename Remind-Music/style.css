@@ -1,3 +1,7 @@
+body{
+  font-family: 'Dosis','Noto Sans Korean','Apple SD Gothic Neo', 'Malgun Gothic','Nanum Gothic', 'Noto Sans','sans-serif';
+
+}
 .navbar {
     position: relative;
     display: flex;
@@ -33,7 +37,7 @@
 }
 
 .main-color{
-  background-color:#white;
+  background-color: white;
 }
 
 .nav-font{
@@ -51,12 +55,6 @@
     --bs-bg-opacity: 1;
     background-color: white !important;
 }
-
-body{
-  font-family: 'Dosis','Noto Sans Korean','Apple SD Gothic Neo', 'Malgun Gothic','Nanum Gothic', 'Noto Sans','sans-serif';
-
-}
- }
 .bg-primary {
     --bs-bg-opacity: 1;
     background-color: rgba(4,90,165) !important;
