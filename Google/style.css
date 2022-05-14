@@ -1,106 +1,103 @@
-.top-link{
-    text-decoration: none;
-    padding-right: 15px;
-    color: rgba(0,0,0,.87);
-    line-height: 24px;
-  }
-  .top-link:hover{
-    text-decoration: underline;
-  }
-  .first-line{
-      align-items: center;
-      padding: 6px;
-      font-family: Apple SD Gothic Neo,arial,sans-serif;
-      margin-left: 15px;
-      font-size: 14px;
-  }
-  .top-right{
-    float: right;
-    margin-right:15px;
-    font: 13px/27px Roboto,RobotoDraft,Arial,sans-serif;
-  }
-  
-  .main-cen{
-    margin-top:210px;
-    text-align: center;
-  }
-  .input_design{
-    width: 582px;
-    height:44px;
-    border-radius: 24px;
-    padding-left: 40px;
-    padding-right: 60px;
-    border: 1px solid #dfe1e5;
-    margin-top:20px;
-  }
-  .input_design:hover{
-    background-color: #fff;
-    box-shadow: 0 1px 6px rgb(32 33 36 / 28%);
-    border-color: rgba(223,225,229,0);
-  }
-  
-  
-  .search{
-    position: relative;
-    left:40px;
-    color: #9aa0a6;
-  }
-  
-  .keyboard{
-    position: relative;
-    right:70px;
-    color: #7a7d7f;
-  }
-  .mic{
-    position: relative;
-    right:60px;
-    color: #71757a;
-  }
-  
-  .button-des{
-    margin: 20px 4px;
-    background-color: #f8f9fa;
-    border: 1px solid #f8f9fa;
-    border-radius: 4px;
-    padding: 0px 16px;
-    height: 36px;
-    font-family: Apple SD Gothic Neo,arial,sans-serif;
-    font-size: 14px;
-  }
-  
-  .button-des:hover{
-    
-      box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
-      background-color: #f8f9fa;
-      border: 1px solid #dadce0;
-  
-  }
-  
-  .bottom-line{
-    position: absolute;
-    bottom: 0px;
-    background: #f2f2f2;
-    width:100%
-  }
-  .bottom-first{
-      padding: 15px 30px;
-      border-bottom: 1px solid #dadce0;
-      font-size: 15px;
-      color: #70757a;
-  }
-  .bottom-sec{
-    padding: 15px 30px;
-  }
-  
-  .bottom-right{
-    float:right;
-  }
-  .bottom-link{
-    text-decoration: none;
-    padding-right: 20px;
-    color: #70757a;
-    font-size: 14px;
-  }
-  .bottom-link:hover{
-    text-decoration: underline;
-  }
+.top-link {
+	text-decoration: none;
+	padding-right: 15px;
+	color: rgba(0, 0, 0, 0.87);
+	line-height: 24px;
+}
+.top-link:hover {
+	text-decoration: underline;
+}
+.first-line {
+	align-items: center;
+	padding: 6px;
+	font-family: Apple SD Gothic Neo, arial, sans-serif;
+	margin-left: 15px;
+	font-size: 14px;
+}
+.top-right {
+	float: right;
+	margin-right: 15px;
+	font: 13px/27px Roboto, RobotoDraft, Arial, sans-serif;
+}
+
+.main-cen {
+	margin-top: 210px;
+	text-align: center;
+}
+.input_design {
+	width: 582px;
+	height: 44px;
+	border-radius: 24px;
+	padding-left: 40px;
+	padding-right: 60px;
+	border: 1px solid #dfe1e5;
+	margin-top: 20px;
+}
+.input_design:hover {
+	background-color: #fff;
+	box-shadow: 0 1px 6px rgb(32 33 36 / 28%);
+	border-color: rgba(223, 225, 229, 0);
+}
+
+.search {
+	position: relative;
+	left: 40px;
+	color: #9aa0a6;
+}
+
+.keyboard {
+	position: relative;
+	right: 70px;
+	color: #7a7d7f;
+}
+.mic {
+	position: relative;
+	right: 60px;
+	color: #71757a;
+}
+
+.button-des {
+	margin: 20px 4px;
+	background-color: #f8f9fa;
+	border: 1px solid #f8f9fa;
+	border-radius: 4px;
+	padding: 0px 16px;
+	height: 36px;
+	font-family: Apple SD Gothic Neo, arial, sans-serif;
+	font-size: 14px;
+}
+
+.button-des:hover {
+	box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+	background-color: #f8f9fa;
+	border: 1px solid #dadce0;
+}
+
+.bottom-line {
+	position: absolute;
+	bottom: 0px;
+	background: #f2f2f2;
+	width: 100%;
+}
+.bottom-first {
+	padding: 15px 30px;
+	border-bottom: 1px solid #dadce0;
+	font-size: 15px;
+	color: #70757a;
+}
+.bottom-sec {
+	padding: 15px 30px;
+}
+
+.bottom-right {
+	float: right;
+}
+.bottom-link {
+	text-decoration: none;
+	padding-right: 20px;
+	color: #70757a;
+	font-size: 14px;
+}
+.bottom-link:hover {
+	text-decoration: underline;
+}
