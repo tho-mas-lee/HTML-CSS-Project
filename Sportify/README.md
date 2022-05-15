@@ -3,7 +3,7 @@
 
 Html 과 Css를 연습하기 위해 Sportify 홈페이지를 copy하였습니다.
 ![](https://i.imgur.com/gkvkuBi.png)
-https://spotify2-thomas.netlify.app/
+https://spotify1-thomas.netlify.app/
 
 ## 사용한 기술
 * HTML
