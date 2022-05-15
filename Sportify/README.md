@@ -7,5 +7,4 @@ https://spotify2-thomas.netlify.app/
 
 ## 사용한 기술
 * HTML
-* CSS
-* Vanila Javascript
+* CS
